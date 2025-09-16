@@ -1,0 +1,1 @@
+Just the GitHub repository for my Studynet project. You can follow the project's progress (here)[https://medium.com/@elsamatchole/flask-web-development-our-first-flask-app-e4ab11088389] and follow the instructions in the Medium article to see how to work with it.  
