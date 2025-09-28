@@ -1,1 +1,2 @@
 FLASK_APP=studynet.py
+FLASK_DEBUG=1

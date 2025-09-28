@@ -12,4 +12,4 @@ db = SQLAlchemy(flask_app)
 # migration instance initialization
 migrate = Migrate(flask_app,db)
 
-from app import routes,models
+from app import routes,models,forms
